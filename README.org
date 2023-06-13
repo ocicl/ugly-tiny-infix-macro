@@ -1,0 +1,10 @@
+* ugly-tiny-infix-macro
+
+A tiny and simple macro to allow writing of binary operations in infix notation
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/peey/ugly-tiny-infix-macro.git   |
+| commit  | 0d476c3  |
+| systems | ugly-tiny-infix-macro |
+|---------+-------------------------------------------|
+
